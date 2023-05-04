@@ -23,13 +23,13 @@ nav {
   background-color: #f8f9fa;
 }
 nav .nav-item .nav-link {
-  color: #c32b2c !important;
+  color: #5e2832 !important;
   text-transform: uppercase;
   font-size: 15px;
 }
 nav .nav-item .dropdown-menu .dropdown-item {
   text-transform: uppercase;
-  color: #c32b2c;
+  color: #5e2832;
 }
 nav .nav-item .dropdown-menu .dropdown-item:hover {
   background-color: #5e2832;
@@ -86,7 +86,7 @@ nav .side-nav .call-nav li a {
 .main-content h1 {
   font-size: 38px;
   line-height: 57px;
-  color: #c32b2c;
+  color: #fff;
 }
 .main-content .p {
   font-size: 15px;
@@ -98,7 +98,7 @@ nav .side-nav .call-nav li a {
   font-size: 30px;
 }
 .main-content .p a:hover {
-  color: #c32b2c;
+  color: #fff;
 }
 
 .why-choose-us .row {
@@ -123,8 +123,8 @@ nav .side-nav .call-nav li a {
   line-height: 30px;
 }
 .why-choose-us .row .col-md-2 div:hover {
-  background-color: #c32b2c;
-  color: #ffe000;
+  background-color: #fff;
+  color: #b9832d;
 }
 
 /* Main Content */
@@ -175,7 +175,7 @@ nav .side-nav .call-nav li a {
 .home-rooms .container-fluid .row .col-md-6 p a:hover {
   color: #ffffff;
   text-decoration: none;
-  background-color: #c32b2c;
+  background-color: #fff;
   border-color: #ffffff;
 }
 
@@ -220,7 +220,7 @@ nav .side-nav .call-nav li a {
 }
 
 /* .footer:hover {
-  background-color: #c32b2c;
+  background-color: #fff;
 } */
 .footer:hover div p a {
   color: #5e2832;
@@ -260,7 +260,7 @@ nav .side-nav .call-nav li a {
   background-size: cover;
 }
 .home-rooms1 .container-fluid .row .bg-img5 {
-  background: url(https://img.freepik.com/free-photo/architecture-unidentified-tourists_74190-4253.jpg?w=996&t=st=1682920663~exp=1682921263~hmac=52fb256710df2d607f837f2c406a364edf1e151fcda87cc96cde60497e25f10e) center center;
+  background: url(../images/aksa.jpeg) center center;
   background-size: cover;
 }
 .home-rooms1 .container-fluid .row .bg-img6 {
@@ -297,13 +297,13 @@ nav .side-nav .call-nav li a {
 .home-rooms1 .container-fluid .row .col-md-6 p a:hover {
   color: #ffffff;
   text-decoration: none;
-  background-color: #c32b2c;
+  background-color: #fff;
   border-color: #ffffff;
 }
 .home-rooms1 .container-fluid .room-amenities {
-  background-color: #c32b2c;
+  background-color: #fff;
   padding: 3% 0;
-  color: #ffe000;
+  color: #b9832d;
 }
 .home-rooms1 .container-fluid .room-amenities .col-md-4 {
   padding: 1% !important;
@@ -327,10 +327,10 @@ nav .side-nav .call-nav li a {
 }
 .contact-container .row .col-md-4 div {
   padding: 15px;
-  background-color: #c32b2c;
+  background-color: #fff;
   border-radius: 5px;
   height: 1000%;
-  color: #ffe000;
+  color: #b9832d;
 }
 .contact-container .form-map {
   margin: 15px 0;
